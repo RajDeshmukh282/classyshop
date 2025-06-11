@@ -11,6 +11,13 @@ const Header = () => {
                 Shop now and get up to 50% off during our Diwali Sale! Limited time offer!
               </p>
             </div>
+            <div className="col2 flex items-center justify-end">
+                <ul>
+                    <li className="list=none">
+                        
+                    </li>
+                </ul>
+            </div>
           </div>
         </div>  
       </div>
