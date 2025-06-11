@@ -1,12 +1,26 @@
-# React + Vite
+# 🛍️ ClassyShop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ClassyShop** is a modern, full-stack e-commerce website built with React, Tailwind CSS, and a robust backend. The goal of this project is to provide a seamless shopping experience with stylish UI, dynamic product management, and secure checkout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Tech Stack
 
-## Expanding the ESLint configuration
+### 💻 Frontend
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/) – Fast dev environment
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first styling
+- [React Router](https://reactrouter.com/) – Client-side routing
+- [Axios](https://axios-http.com/) – API calls
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛠️ Backend (Planned)
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/) with Mongoose
+- [JWT](https://jwt.io/) for Auth
+- [Stripe / Razorpay](https://razorpay.com/) for Payments
+
+---
+
+## 📁 Project Structure
+
