@@ -20,7 +20,5 @@
 - [JWT](https://jwt.io/) for Auth
 - [Stripe / Razorpay](https://razorpay.com/) for Payments
 
----
 
-## 📁 Project Structure
 
