@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <header>
-      <div classname="top-strip">
+      <div classname="top-strip py-2">
         <div className=" container">
           <div className="flex items-center justify-between">
             <div className="col1 w-[50%]">
