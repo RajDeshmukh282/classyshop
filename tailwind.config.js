@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */
+// tailwind.config.js
 export default {
   content: [
     "./index.html",
@@ -6,13 +6,10 @@ export default {
   ],
   theme: {
     extend: {
-      colors:{
-        primary:'##ff5252'
+      colors: {
+        primary: '#ff5252', // ✅ Only one #
       },
-      backgroundColor:{
-        primary:'##ff5252'
-      }
     },
   },
   plugins: [],
-}
+};
